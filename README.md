@@ -1,4 +1,4 @@
-<h2 align="center">Welcome 👋 I'm Johanna</h2>
+<h2 align="center">Welcome 👋 I'm Johanna ! </h2>
 
 <p align="center">
 Pre-MSc student at Epitech, passionate about cybersecurity<br>
