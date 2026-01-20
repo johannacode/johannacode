@@ -16,7 +16,7 @@ Currently looking for an internship/apprenticeship in this field 🔐
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/a/ATE8Dqb"  />
+<img align="right" height="150" src="https://i.imgur.com/6QUAiZs.png"  />   
 
 ###
 
